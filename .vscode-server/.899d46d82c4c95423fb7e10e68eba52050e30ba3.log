@@ -1,0 +1,61 @@
+
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+Extension host agent listening on 37274
+
+[15:07:01] Extension host agent started.
+[15:07:01] [127.0.0.1][626cf41b][ExtensionHostConnection] New connection established.
+[15:07:01] [127.0.0.1][bf07781a][ManagementConnection] New connection established.
+[15:07:01] [127.0.0.1][626cf41b][ExtensionHostConnection] <1525> Launched Extension Host Process.
+[15:23:47] [127.0.0.1][bf07781a][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[15:23:47] [127.0.0.1][626cf41b][ExtensionHostConnection] <1525> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[15:23:47] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[15:23:49] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[15:23:49] Cancelling previous shutdown timeout
+[15:23:49] [127.0.0.1][1a9d7714][ManagementConnection] New connection established.
+[15:23:49] [127.0.0.1][29180f14][ExtensionHostConnection] New connection established.
+[15:23:49] [127.0.0.1][29180f14][ExtensionHostConnection] <1680> Launched Extension Host Process.
+New EH opened, aborting shutdown
+[15:28:49] New EH opened, aborting shutdown
+[16:40:56] [127.0.0.1][1a9d7714][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[16:40:56] [127.0.0.1][29180f14][ExtensionHostConnection] <1680> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[16:40:56] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[16:42:59] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[16:42:59] Cancelling previous shutdown timeout
+[16:42:59] [127.0.0.1][4f759551][ManagementConnection] New connection established.
+[16:42:59] [127.0.0.1][ebf6ce1c][ExtensionHostConnection] New connection established.
+[16:42:59] [127.0.0.1][ebf6ce1c][ExtensionHostConnection] <28749> Launched Extension Host Process.
+[16:43:08] [127.0.0.1][4f759551][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[16:43:08] [127.0.0.1][ebf6ce1c][ExtensionHostConnection] <28749> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[16:43:08] Cancelling previous shutdown timeout
+Last EH closed, waiting before shutting down
+[16:43:08] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[16:43:11] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[16:43:11] Cancelling previous shutdown timeout
+[16:43:11] [127.0.0.1][221ec222][ManagementConnection] New connection established.
+[16:43:11] [127.0.0.1][45a6dac6][ExtensionHostConnection] New connection established.
+[16:43:11] [127.0.0.1][45a6dac6][ExtensionHostConnection] <28867> Launched Extension Host Process.
+[IPC Library: Pty Host]  INFO Persistent process "14": Replaying 7932 chars and 1 size events
+New EH opened, aborting shutdown
+[16:48:11] New EH opened, aborting shutdown
+[node.js fs] readdir with filetypes failed with error:  [Error: EACCES: permission denied, scandir '/home/listopadovnd/data/mysql'] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'scandir',
+  path: '/home/listopadovnd/data/mysql'
+}

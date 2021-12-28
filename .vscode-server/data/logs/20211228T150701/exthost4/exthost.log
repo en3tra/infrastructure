@@ -1,0 +1,12 @@
+[2021-12-28 16:43:11.682] [exthost] [info] Extension host with pid 28867 started
+[2021-12-28 16:43:11.685] [exthost] [info] Lock '/home/listopadovnd/.vscode-server/data/User/workspaceStorage/1ff03a60ac6d7e71cbd855ade2001042/vscode.lock': Lock acquired.
+[2021-12-28 16:43:11.737] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-12-28 16:43:11.740] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-12-28 16:43:11.774] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2021-12-28 16:43:11.812] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-12-28 16:43:12.034] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-28 16:43:12.044] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-28 16:43:12.046] [exthost] [info] Eager extensions activated
+[2021-12-28 16:46:42.427] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2021-12-28 16:47:35.166] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features, startup: false, activationEvent: 'onLanguage:php'
+[2021-12-28 17:59:50.879] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
